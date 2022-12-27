@@ -1,5 +1,5 @@
 ﻿# matala2-observer
-##instuction:
+**instuction:**
 open folder OOP.Assignment1/src
 the java classes are in folders main/java/observer
 the tests are in folders test/java
