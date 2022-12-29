@@ -6,8 +6,8 @@ the java classes are in folders main/java/observer.
 the tests are in folders test/java.
 
 ## interfaces:
-Member: for object classes that we want to 
-
+Member: for object classes that we want to listen to UndoableStringBuilder type
+Sender: for classes that want them to use UndoableStringBuilder methods and share it with their members.
 
 ## GroupAdmin:
 implement from Sender interface, his fields are ArrayList that hold all his member types, and UndoableStringBuilder (USB), that we build in the previous work.
